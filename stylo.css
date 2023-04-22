@@ -101,7 +101,7 @@ border: 2px solid white;
 
 }
 
-.div-button a button{
+.div-button a {
 display: flex;
 justify-content: center; 
 align-items: center; 

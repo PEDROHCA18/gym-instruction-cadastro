@@ -78,7 +78,7 @@ h1 ,label{
     color: white;
 
 }
-.div-button a:hover{
+.div-button a button:hover{
     cursor: pointer;
     background-color: white;
     color: #49bca7;
@@ -107,5 +107,7 @@ text-decoration: none;
 font-size: 30px; 
 color: white;
 background-color: #49bca7;
+outline: none;
+
 
 }

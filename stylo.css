@@ -60,7 +60,6 @@ h1 ,label{
     width: 250px;
     height: 45px;
     background-color: #49bca7;
-    border: 2px solid white;
 }
 
 
@@ -108,6 +107,9 @@ text-decoration: none;
 color: white;
 background-color: #49bca7;
 outline: none;
-
-
+margin-top:20px:
+}
+.a2{
+display:flex;
+ align-items:center;
 }

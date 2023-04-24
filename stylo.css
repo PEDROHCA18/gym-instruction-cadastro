@@ -109,3 +109,20 @@ background-color: #49bca7;
 outline: none;
 margin-top:25px:
 }
+
+@media (max-width:740px){
+h1{
+font-size: 20px;
+margin-bottom:12px;
+}
+p{
+font-size:14px;
+margin-bottom:7px;
+}
+.div-button{
+width:180px;
+height:40px;
+}}
+
+
+

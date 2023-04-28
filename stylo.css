@@ -73,15 +73,13 @@ p{
     color: white;
     margin-right: 3px;
     margin-top:30px;
-}
-
-p a{
   line-height: 1.5;
 
 }
 
-
-    text-decoration: none;
+p a{
+  line-height: 1.5;
+   text-decoration: none;
 }
 p a:hover{
     color:red;

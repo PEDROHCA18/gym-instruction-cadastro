@@ -78,7 +78,7 @@ p{
 }
 
 p a{
-  line-height: 1.5;
+  line-height: 20px;
    text-decoration: none;
 }
 p a:hover{
